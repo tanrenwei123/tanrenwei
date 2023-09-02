@@ -1,8 +1,8 @@
 {
-    "name": "tanrenwei/wechat",
+    "name": "tanrenwei/renwei",
     "autoload": {
         "psr-4": {
-            "Tanrenwei\\Wechat\\": "src/"
+            "Tanrenwei\\renwei\\": "src/"
         }
     },
     "authors": [
