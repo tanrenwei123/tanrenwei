@@ -1,0 +1,16 @@
+{
+    "name": "tan/tanrenwei",
+    "autoload": {
+        "psr-4": {
+            "Tan\\Tanrenwei\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "renwei tan",
+            "email": "981869782@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
