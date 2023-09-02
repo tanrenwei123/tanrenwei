@@ -1,0 +1,20 @@
+{
+  "name": "tanrenwei/renwei",
+  "description": "renwei",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tanrenwei"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "doctrine/cache": "~1.5.4",
+    "curl/curl": "^1.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "tanrenwei\\renwei\\": "src/"
+    }
+  }
+}
